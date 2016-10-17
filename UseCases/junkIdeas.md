@@ -3,4 +3,5 @@
 - Can we take others at their word [nullis in verba](http://blogs.discovermagazine.com/neuroskeptic/2016/08/16/science-without-open-data-isnt-science/#.V7SAP3pjJhE)
 - What are small steps that people can take to start the process
   - i.e. even if someone is super busy right now how can the prepare themselves to make a change
-- [McKiernan's awesome paper in elife](https://elifesciences.org/content/5/e16800)
+- [McKiernan's awesome paper in elife](https://elifesciences.org/content/5/e16800) *OpenConCam*
+- [BioBlocks](http://biorxiv.org/content/early/2016/10/14/081075) might be a cool resource to convince the wet-lab folks
