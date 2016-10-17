@@ -6,26 +6,27 @@
 2. How to Open Your Data
 3. Sharing Your Data
 4. Become a Data Hunter (Finding data for reuse)
-5. Making Friends with Other People's Data (Things to know abt using data from others)
-6. Open Facilitation, Teaching & Community Building (around open data)
-7. Tools and Workflows for Working Open
+5. Making Friends with Other People's Data (Things to know abt using data from others)  
+~~6. Open Facilitation, Teaching & Community Building (around open data)~~  
+~~7. Tools and Workflows for Working Open~~
 
 #### LEVEL 2
 Here we're thinking of doing a series of discipline-specific training 
 Topics may be:
 * Health Sciences
   * IRB
-c
   * Qualitative & quantitative
   * where to find data
   * physical specimens
   * where to publish
+  * issues / considerations w/ large and/or dynamic data sets
 * Life Sciences
   * mostly quantitative
   * IRB
   * where to find data
   * physical specimens
   * where to publish
+  * issues / considerations w/ large and/or dynamic data sets
 * Humanities
   * more multimedia forms of data - storage issues
   * publishing considerations
